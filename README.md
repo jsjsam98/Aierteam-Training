@@ -31,3 +31,4 @@ By the end of this workshop, participants will:
 ### Course Session
 
 1. [AI 101 - Say Hi to AI](AI101/AI101.ipynb)
+2. [AI & Productivity](AI&Productivity/AI&Productivity.md)
