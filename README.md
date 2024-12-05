@@ -1,4 +1,4 @@
-# 🚀 AierTeam Apprenticeship Training Program 🚀
+# 🚀 AierTeam Apprenticeship Training Program
 
 ### Preface
 
@@ -16,3 +16,18 @@ This program is structured to provide a comprehensive learning experience:
 
 -   You will learn the essential concepts and develop the skills required for real-world AI projects.
 -   You will apply these skills to build four industry-level, well-crafted projects, gaining hands-on experience and practical insights.
+
+### Course Outcome
+
+By the end of this workshop, participants will:
+
+-   Learn the fundamentals of Large Language Models (LLMs).
+-   Gain practical skills in LLM tasks like prompting and fine-tuning.
+-   Understand how to select the right model for your task.
+-   Learn Large Language Model Deployment.
+-   Address ethical and security considerations in AI applications.
+-   Complete real-world AI projects with mentorship to build a professional Portfolio.
+
+### Course Session
+
+1. [AI 101 - Say Hi to AI](AI101/AI101.ipynb)
