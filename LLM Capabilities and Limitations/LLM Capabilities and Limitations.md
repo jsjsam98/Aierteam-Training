@@ -1,4 +1,4 @@
-# 🚀 AI & Productivity (Continuously Updated...)
+# 🚀 LLM Capabilities and Limitations (Continuously Updated...)
 
 This session is designed for self-paced learning. The list will be regularly updated to reflect the latest advancements and trends in popular AI tools.
 

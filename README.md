@@ -1,4 +1,7 @@
-# 🚀 AierTeam Apprenticeship Training Program
+# 🚀 AierTeam AI Training Program
+
+[Website](https://academy.aierteam.com)</br>
+[Discord Community]
 
 ### Preface
 
@@ -30,5 +33,5 @@ By the end of this workshop, participants will:
 
 ### Course Session
 
-1. [AI 101 - Say Hi to AI](AI101/AI101.ipynb)
-2. [AI & Productivity](AI&Productivity/AI&Productivity.md)
+1. [AI 101 - Say Hi to AI](AI%20101/AI101.ipynb)
+2. [LLM Capabilities and Limitations](LLM%20Capabilities%20and%20Limitations/LLM%20Capabilities%20and%20Limitations.md)
