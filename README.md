@@ -33,5 +33,8 @@ By the end of this workshop, participants will:
 
 ### Course Session
 
-1. [AI 101 - Say Hi to AI](AI%20101/AI101.ipynb)
+1. [LLM 101 - Say Hi to LLM](LLM%20101/LLM101.ipynb)
 2. [LLM Capabilities and Limitations](LLM%20Capabilities%20and%20Limitations/LLM%20Capabilities%20and%20Limitations.md)
+3. [PromptEngineering](PromptEngineering/PromptEngineeringIntro.ipynb)
+4. [AI Security & Ethics](AI%20Security%20&%20Ethics/README.md)
+5. [Software Engineering Foundation](Software%20Engineering%20Foundation/README.md)

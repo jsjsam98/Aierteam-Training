@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Human Verified Badge</title>
+		<link
+			href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+			rel="stylesheet"
+		/>
+		<style>
+			/* Badge styling */
+			.human-verified-badge {
+				position: fixed;
+				bottom: 20px;
+				right: 20px;
+				width: 60px;
+				height: 60px;
+				border-radius: 50%;
+				background-color: #28a745;
+				color: white;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				font-size: 24px;
+				box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+				cursor: pointer;
+				z-index: 1000;
+			}
+			.human-verified-badge:hover {
+				background-color: #218838;
+			}
+		</style>
+	</head>
+	<body>
+		<h1>Welcome to Human-Certified Content</h1>
+		<p>
+			This page is verified to contain content created by humans, not AI.
+		</p>
+
+		<!-- Badge -->
+		<div class="human-verified-badge">
+			<i class="fas fa-user-check"></i>
+		</div>
+
+		<!-- Optional JavaScript functionality -->
+		<script>
+			document.querySelector(".human-verified-badge").onclick = () => {
+				alert("This content is human-originated and verified!");
+			};
+		</script>
+	</body>
+</html>
